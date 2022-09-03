@@ -1,1 +1,1 @@
-# MergeSort_InsertionSort_QuickSort
+# I implemented Merge Sort, Inser Sort, and Quick Sort from the scratch.
